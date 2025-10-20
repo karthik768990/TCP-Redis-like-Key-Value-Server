@@ -83,7 +83,8 @@ g++ -std=c++17 -o client client.cpp
 ## Usage 
 - Clone the repository from the terminal of ubuntu based kernels using
  git clone https://github.com/karthik768990/tcp-keyvalue-store-ccp-redis-lite.git
--Then navigate to the folder using
+-Then navigate to the folder using and also using the ubuntu or  linux based terminals is must for using or running this application as this includes some system unix system imports like the poll.h etc...
+
  cd tcp-keyvalue-store-ccp-redis-lite
 -Compile both the server and the client codes using the commands mentions above and then run the cliend and the server separately in two separate terminals using
 ./server
