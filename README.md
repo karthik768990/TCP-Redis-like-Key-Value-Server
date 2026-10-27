@@ -92,5 +92,5 @@ g++ -std=c++17 -o client client.cpp
 -Use the terminals input as the input of the commands from the client side and go with it and use the server.
 ### FeedBack
 -If there is any query or improvements feel free to contach with the mail 
-karthiktamarapalli5437@gmail.com
+karthiktamarapalli5347@gmail.com
 
